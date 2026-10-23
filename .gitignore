@@ -1,0 +1,3 @@
+# Archive préparée pour l'envoi sur Netlify
+*.zip
+.claude/
